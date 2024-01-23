@@ -1,5 +1,5 @@
-(https://github.com/jduru213/jduru213/blob/main/Cybersecurity%20Banner%20.png)
 ### Hi there 👋, I'm Justin Duru 
+(https://github.com/jduru213/jduru213/blob/main/Cybersecurity%20Banner%20.png)
 I'm a dedicated 2nd year undergrad at Frostburg State University majoring in Secure Computing and Information Assurance. I really enjoy learning about the evolving world of cloud technology and cybersecurity through hands-on labs, side projects, and certifications.  
 
 ## Interests & Ambitions
