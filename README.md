@@ -1,6 +1,6 @@
 ### Hi there 👋, Justin 
 #### Cloud and Network Security 
-![Cloud and Network Security ](https://github.com/jduru213/jduru213/blob/main/Cybersecurity%20Banner%20.png))
+![Cloud and Network Security ](https://github.com/jduru213/jduru213/blob/main/Cybersecurity%20Banner%20.png)
 
 I'm Justin Duru, a dedicated 2nd year undergrad at Frostburg State University majoring in Secure Computing and Information Assurance. I really enjoy learning about the evolving world of cloud technology and cybersecurity through hands-on labs, side projects, and certifications.  
 
