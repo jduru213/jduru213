@@ -1,24 +1,15 @@
-### Hi there 👋, Justin 
-#### Cloud and Network Security 
+## Hi there 👋, My name is Justin Duru
+# Secure Computing & Information Major
 
-I'm Justin Duru, a dedicated 2nd year undergrad at Frostburg State University majoring in Secure Computing and Information Assurance. I enjoy learning about the evolving world of cloud technology and cybersecurity through hands-on labs, side projects, and certifications.  
+I'm Justin Duru, a dedicated 2nd year undergrad student majoring in Secure Computing and Information Assurance. I enjoy learning about the evolving world of cloud technology and cybersecurity through hands-on labs, side projects, and certifications.  
 
-## Interests & Ambitions
-Aside from technology, I enjoy a wide range of interests. I am a Baltimore Ravens fan who enjoys the excitement of football. In the kitchen, I express my creativity through cooking, and my favorite moments are spent with family, and cherishing quality time together. My ambitions drive me to channel my expertise into cloud computing, where I can use my skills to protect valuable data assets. My ultimate goal is to make a positive difference in the world by working in a team that ensures information security and integrity.
+- 🧠 I'm learning Cloud Infrastructure, Network Fundamentals and Splunk 
+- 🔭 I'm currently working on 
+- 🤝 I'm open to collaborating on Cloud Based Projects, Threat detection, Home Labs, & more.
 
-## Skills & Project Experience
-🧑🏿‍💻Python 
-🛜 Network protocols
-☁️ Cloud computing
-- Wireshark
-- SIEM
-- PowerShell
-- Linux
-- Nmap
-- Encryption algorithms 
-
-- 🔭 I’m currently working on Cloud & Network Security Projects  
-- 🌱 I’m currently learning Network Fundamentals and Linux  
+## Skills 
+https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg
+https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jduru213)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/justin-duru-97159a250//)  
