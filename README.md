@@ -2,7 +2,7 @@
 
 I'm Justin Duru, a dedicated 2nd year undergrad student majoring in Secure Computing and Information Assurance. I enjoy learning about the evolving world of cloud technology and cybersecurity through hands-on labs, side projects, and certifications.  
 
-- 🧠 I'm learning Cloud Infrastructure, Network Fundamentals and Splunk 
+- 🧠 I'm learning Cloud Infrastructure, Network Fundamentals and Best Security Practices 
 - 🔭 I'm currently working on Cloud Computing, DevOps, and Linux Home Lab projects 
 - 🤝 I'm open to collaborating on Cloud Based Projects, Threat detection, Home Labs, & more.
 
